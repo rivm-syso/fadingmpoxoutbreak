@@ -1,12 +1,11 @@
 # fadingmpoxoutbreak
 
 # This repository contains files used for a modelling study investigating the mpox outbreak amon MSM in the Netherlands in 2022.
+# https://www.medrxiv.org/content/10.1101/2023.01.31.23285294v3
 
-# Principal investigator: Maria Xiridou, National Institute of Public Health and the Environment (RIVM), The Netherlands. 
-# Project members: Fuminari Miura, Philippe Adam, Eline Op de Coul, John de Wit, Jacco Wallinga. 
+# Principal investigator: Dr. Maria Xiridou (maria.xiridou@rivm.nl)
+# National Institute of Public Health and the Environment (RIVM), The Netherlands. 
 
 # The computer code is written in Wolfram Mathematica version 11. 
 
 # The repository is currently being updated and will be soon available. 
-
-# For information, please contact Dr. M. Xiridou at maria.xiridou@rivm.nl.
