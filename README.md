@@ -9,4 +9,4 @@ National Institute of Public Health and the Environment (RIVM), The Netherlands.
 
 The computer code is written in Wolfram Mathematica version 11. 
 
-The repository is currently being updated and will be soon available. 
+The main analyses of the study are in directory "num250" with analyses and results for a population of 250,000 MSM. The other two directories (num200 and num300) contain sensitivity analyses with a population of 200,000 MSM and 300,000 MSM, respectively. 
